@@ -1,4 +1,5 @@
-#Road Warrior Creative, LLC Open Source Employee Handbook
+![Road Warrior Creative Logo](http://roadwarriorcreative.com/wp-content/uploads/2015/10/RWC-Logo-360w.png)
+#Open Source Employee Handbook
 
 ##About this Handbook
 
