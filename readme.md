@@ -44,48 +44,48 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 ##Table of Contents
 
 ###Benefits & Perks
-* [Coffee Break Allowance](/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee%20break%20allowance.md)
-* [Continuing Education](NEED.URL)
-* [Employee Absences](NEED.URL)
-* [Health Insurance](NEED.URL)
-* [Holiday List](NEED.URL)
-* [Paid Time Off (PTO)](NEED.URL)
-* [Referral Bonuses](NEED.URL)
-* [Qualifying for Benefits](NEED.URL)
+* [Coffee Break Allowance](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee-break-allowance.md)
+* [Continuing Education](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/continuing-education.md)
+* [Employee Absences](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/employee-absences.md)
+* [Health Insurance](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/health-insurance.md)
+* [Holiday List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/holiday-list.md)
+* [Paid Time Off (PTO)](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/paid-time-off.md)
+* [Qualifying for Benefits](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/qualifying-for-benefits.md)
+* [Referral Bonuses](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/referral-bonuses.md)
 
 ###Employment Policies
-* [At-Will Employment](NEED.URL)
-* [Code of Conduct](NEED.URL)
-* [Employee Complaints](NEED.URL)
-* [Drug and Alcohol](NEED.URL)
-* [Employee Privacy](NEED.URL)
-* [Equal Opportunity Employment](NEED.URL)
-* [Employee Compensation](NEED.URL)
-* [Remote Work](NEED.URL)
+* [At-Will Employment](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/at-will-employment.md)
+* [Code of Conduct](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/code-of-conduct.md)
+* [Drug and Alcohol](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/drug-and-alcohol.md)
+* [Employee Complaints](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/employee-complaints.md)
+* [Employee Privacy](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/employee-privacy.md)
+* [Equal Opportunity Employment](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/equal-opportunity-employment.md)
+* [Employee Compensation](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/salary-and-equity-compensation.md)
+* [Remote Work](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/working-remotely.md)
 
 ###New Hire Documents
-* [About Required Postings](NEED.URL)
-* [Company Documents List](NEED.URL)
-* [Federal Documents List](NEED.URL)
-* [State Documents List](NEED.URL)
+* [About Required Postings](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/about-required-postings.md)
+* [Company Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/company-document-list.md)
+* [Federal Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/federal-documents-list.md)
+* [State Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/state-documents-list.md)
 
-###Operations Documents - SECTION NOT YET COMPLETED - COMING SOON!
-* >>[Best Practices: 1Password](NEED.URL)
-* [Best Practices: Basecamp](NEED.URL)
-* [Best Practices: Dropbox](NEED.URL)
-* [Best Practices: GitHub](NEED.URL)
-* [Best Practices: Google for Business](NEED.URL)
-* [Best Practices: Toggl](NEED.URL)
-* [Best Practices: Zendesk](NEED.URL)
-* [Operations: Accounting/Budgeting](NEED.URL)
-* [Operations: Hosting/Support](NEED.URL)
-* [Operations: Logo Design/Branding](NEED.URL)
-* [Operations: New Employee Onboarding](NEED.URL)
-* [Operations: Search Engine Optimization/Marketing](NEED.URL)
-* [Operations: Social Media Marketing](NEED.URL)
-* [Operations: Sourcing Job Candidates](NEED.URL)
-* [Operations: Website Design/Development](NEED.URL)
-* [Organizational Structure](NEED.URL)
+###Operations Documents - _This section is incomplete. Only linked sections contain content._
+* Best Practices: 1Password
+* Best Practices: Basecamp
+* Best Practices: Dropbox
+* Best Practices: GitHub
+* Best Practices: Google for Business
+* Best Practices: Toggl
+* Best Practices: Zendesk
+* Operations: Accounting/Budgeting
+* Operations: Hosting/Support
+* Operations: Logo Design/Branding
+* Operations: New Employee Onboarding
+* Operations: Search Engine Optimization/Marketing
+* Operations: Social Media Marketing
+* Operations: Sourcing Job Candidates
+* Operations: Website Design/Development
+* Organizational Structure
 
 ##Changes to Handbook Policy
 
