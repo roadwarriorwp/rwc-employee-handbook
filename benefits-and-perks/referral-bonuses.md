@@ -22,7 +22,7 @@ New hire referral bonuses will be paid following the conclusion of the referred 
 
 __NOTE:__ *Employees with an ownership stake in Road Warrior Creative and employees whose job descriptions are focused on sales and/or aquiring new business are not eligible for this bonus.*
 
-While we certainly do not expect all of our employees to be door-to-door salespeople, Road Warrior Creative does want to show its appreciation for employees that go above and beyond by directly referring us new clients. 
+While we certainly do not expect all of our employees to be door-to-door salespeople, Road Warrior Creative does want to show its appreciation for employees who go above and beyond by directly referring us new clients. 
 
 For new client referrals, we offer a referral bonus equal to 10% of the value of their first invoice, up to a maximum total bonus of $500.00, within the following guidelines:
 
@@ -30,10 +30,10 @@ For new client referrals, we offer a referral bonus equal to 10% of the value of
 * The referral must  represent the new client's first contact with Road Warrior Creative.
 * Only the first employee to refer a new client is eligible for a bonus. 
 
-To make a referral, employees should send the prospective client's information to Chris Hinds, COO, should make an introduction to the referral, and should expect to be engaged lightly throughout the new client onboarding process. The referring employee must still be employed by Road Warrior Creative on the date that the new client's first invoice is paid in full. 
+To make a referral, employees should send the prospective client's information to Chris Hinds, COO, should make an introduction to the referral, and should expect to be engaged lightly throughout the new client onboarding process. 
 
-New client referral bonuses will be paid within 90 day(s) of the new client's first invoice being paid in full. 
+New client referral bonuses will be paid within 90 day(s) of the new client's first invoice being paid in full. The referring employee must still be employed by Road Warrior Creative on the date that the new client's first invoice is paid in full. 
 
 ##Questions about referral bonuses?
 
-Any disputes or interpretations of this program should be sent to Chris Hinds, COO.
+Any disputes or interpretations of this program should be sent to Chris Hinds, COO.  Road Warrior Creative reserves the right to have final say in intrepretions of eligibilty for referal bonuses.
