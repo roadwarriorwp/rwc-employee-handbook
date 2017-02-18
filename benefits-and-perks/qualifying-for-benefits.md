@@ -5,7 +5,7 @@ Employees are considered full-time when working 30 hours or more during a full 5
 **Full-time employees** are eligible for all benefits and bonuses, per the terms listed in this handbook.
 
 **Part-time employees** are eligible for only the following:
-* Change-of-Scenery Allowance
+* Coffee Break Allowance
 * Continuing Education Support
 * Referral Bonsues
 * Paid Time Off (PTO) for Federal Holidays, per our [Holiday List](NEED.URL)
