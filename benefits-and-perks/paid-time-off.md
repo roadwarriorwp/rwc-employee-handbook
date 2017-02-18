@@ -8,7 +8,7 @@ Taking time off and recharging is critical to doing your best work at Road Warri
 
 PTO days do not accrue and will reset each year on the employee's work anniversary.
 
-Employees are eligible to begin claiming their Paid Time Off (PTO) at the conclusion of the 90-day orientation period detailed in every offer letter. Employees should schedule their PTO with their supervisor, let the rest of the team know, and add it to their work calendar at least one week in advance.
+Employees are eligible to begin claiming their Paid Time Off (PTO) at the conclusion of the 90-day orientation period detailed in every offer letter. Employees should schedule their PTO with their supervisor, let the rest of the team know, and add it to their work calendar as far in advance as reasonably possible.
 
 Employees should report PTO days and absences to their direct supervisor, so that it can be marked in Road Warrior Creative's payroll system.
 
