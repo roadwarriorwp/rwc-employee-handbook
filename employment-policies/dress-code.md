@@ -1,6 +1,8 @@
 #Dress Code
 
-One of the great benefits of working remotely is there is no dress code!  Whether you start your day getting dressed in your professional best or prefer to work in your pajamas, we encourage each employee to do what works best for him or her.  There are three exceptions to Road Warrior Creative's non-dress code policy, outlined below.
+One of the great benefits of working remotely is there is no dress code!  Whether you start your day getting dressed in your professional best or prefer to work in your pajamas, we encourage each employee to do what works best for him or her.  
+
+There are three exceptions to Road Warrior Creative's non-dress code policy, outlined below.
 
 ## Team Meetings/Video Chats
 
