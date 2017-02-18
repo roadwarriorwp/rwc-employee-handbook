@@ -4,7 +4,7 @@ Road Warrior Creative will be closed for business on the dates listed below. All
 
 Please note that we occasionally observe Federal Holidays on different dates in order to accommodate a more family-friendly work schedule:
 
-Federal Holiday | Observed Date
+Federal Holiday | 2017 Observed Date
 ------------ | -------------
 New Year's Day | Monday, January 2
 MLK Day | Monday, January 16
