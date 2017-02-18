@@ -7,9 +7,13 @@ Employees are eligable based upon their full- or part-time employment status:
 
 An employee's status is determined by what is listed in their signed offer letter. Employees who believe they may need their work status updated or checked should contact Chris Hinds, COO immediately.
 
-**Full-time employees** are eligible for all benefits and bonuses, per the terms listed in this handbook.
+## Full-time Employees
 
-**Part-time employees** are eligible for only the following:
+Full-time employees are eligible for all benefits and bonuses, per the terms listed in this handbook.
+
+## Part-time Employees
+
+Part-time employees are eligible for only the following:
 * [Coffee Break Allowance](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee-break-allowance.md)
 * [Continuing Education Support](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/continuing-education.md)
 * [Referral Bonuses](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/referral-bonuses.md)
