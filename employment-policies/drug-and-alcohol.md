@@ -4,4 +4,4 @@ Our priority at Road Warrior Creative is to promote a safe, comfortable, and pro
 
 It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe. Employees who violate this policy will be required to immediately discuss such violations with their direct supervisor, and depending upon severity may be subject to immediate separation. Alcohol in the form of beer or wine may occasionally be consumed to celebrate an accomplishment, birthday, or other milestones in locations or during events that Road Warrior Creative rents, sponsors, or attends in an official capacity. 
 
-Illegal drugs should not be used, bought, sold, or distributed in locations or events that Road Warrior Creative rents, sponsors, or attends in an official capacity, or anywhere outside of such location(s) while representing Road Warrior Creative.
+Illegal drugs should not be used, bought, sold, or distributed in locations or during events that Road Warrior Creative rents, sponsors, or attends in an official capacity, or anywhere outside of such location(s) while representing Road Warrior Creative.
