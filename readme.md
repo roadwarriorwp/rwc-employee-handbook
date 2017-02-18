@@ -4,7 +4,7 @@
 
 The beauty of the web and open source is that now *anyone* can see how we run our company, no matter where they are. You're looking at the central repository for how Road Warrior Creative conducts its day-to-day operations. 
 
-Why did we decide to make our employee handbook open source? We believe in transparent and honest business practices from the ground up -- and that includes being open about who we are and how we treat the design, marketing, and web experts across the United States that make up our team. These are the values that we're committed to promoting and practicing:
+Why did we decide to make our employee handbook open source? We believe in transparent and honest business practices from the ground up -- and that includes being open about who we are and how we treat the design, marketing, and web experts across the United States who make up our team. These are the values that we're committed to promoting and practicing:
 
 * __We believe quality of life matters.__
 	* Our employees can live anywhere and work everywhere.
