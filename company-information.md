@@ -30,9 +30,11 @@ _Coming Soon_
 We're super social!  We appreciate and encourage our team members and the public to connect with us online.  Want us to follow you back?  Just give us a shout @roadwarriorwp on pretty much any platform.
 
 * [Facebook](https://www.facebook.com/roadwarriorwp)
+* [GitHub](https://github.com/roadwarriorwp)
 * [Google Plus](https://plus.google.com/b/118400830569556488379/+Roadwarriorcreative)
 * [Instagram](https://www.instagram.com/roadwarriorwp/)
 * [LinkedIn](https://www.linkedin.com/company/10383254)
 * [Pinterest](https://www.pinterest.com/roadwarriorwp/)
 * [Twitter](https://twitter.com/roadwarriorwp)
+* [WordPress.org](https://profiles.wordpress.org/roadwarriorwp)
 * [YouTube](https://www.youtube.com/roadwarriorcreative)
