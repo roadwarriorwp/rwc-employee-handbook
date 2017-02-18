@@ -14,6 +14,14 @@ Schedules must be mutually agreed upon in advance by the employee and his/her di
 
 We prefer not to micro-manage employee scheduling and task prioritization. 
 
+##Acceptable Work Locations
+
+Employees are welcome to work from any location that is most appealing to them on any given day, providing that there is a reliable, high-speed internet connection and that the space is relatively distraction free.  We recognize that "distraction free" means different things to different people, and that's OK!  We trust each employee to work in a place that will be most conducive to his/her productivity.
+
+Employees who would like to work in a coffee shop or cafe are eligible to participate in our [Coffee Break Allowance Perk](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee-break-allowance.md).
+
+If employees will be participating in client phone calls, it is expected that their work locations be free of loud or unprofessional background noises, for example barking dogs, crying babies, or loud music.  If the employee will be participating in video chats with clients, not only should there be minimal background noises, but s/he should also orient his/her seat and camera so that it can be reasonably construed that the employee is working in an office environment.  (I.e. The employee should sit in front of a blank wall rather than with his/her back to a cafe or home living room.)
+
 ##Socializing on "Road Warriors" Basecamp Hub
 
 Basecamp is the primary way in which we handle communication within our team. Top-and-center on your Basecamp dashboard is the "Road Warriors" hub, which is where we encourage everyone to go and connect with other employees and contractors.
