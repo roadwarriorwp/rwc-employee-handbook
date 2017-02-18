@@ -18,4 +18,4 @@ The following absences are considered protected:
 
 ##Other Leaves of Absence
 
-Road Warrior Creative will grant leaves of absence for other activities as required by law. Unless otherwise required by law or by Road Warrior Creative's company policy, employees will not be paid for such leaves of absence.
+Road Warrior Creative will grant leaves of absence for other activities as required by law. Unless otherwise required by law or by Road Warrior Creative's company policy, employees will not be paid for non-protected absences.
