@@ -4,7 +4,7 @@
 
 The beauty of the web and open source is that now *anyone* can see how we run our company, no matter where they are. You're looking at the central repository for how Road Warrior Creative conducts its day-to-day operations. 
 
-Why did we decide to make our employee handbook open source? We believe in transparent and honest business practices, from the ground up -- and that includes being open about who we are and how we treat the design, marketing, and web experts across the United States that make up our team. These are the values that we're committed to promoting and practicing:
+Why did we decide to make our employee handbook open source? We believe in transparent and honest business practices from the ground up -- and that includes being open about who we are and how we treat the design, marketing, and web experts across the United States that make up our team. These are the values that we're committed to promoting and practicing:
 
 * __We believe quality of life matters.__
 	* Our employees can live anywhere and work everywhere.
@@ -22,12 +22,13 @@ Why did we decide to make our employee handbook open source? We believe in trans
 * __We believe the 9-5 is dead.__
 	* The internet and social media don't have set business hours -- and neither do we!
 	* A business built on the internet needs to be fluid and responsive, whether it's 2pm *or 2am*.
-	* There's also perks: Taking afternoons off to watch a school play and weekends camping in the woods!
+	* There's also perks: Taking afternoons off to watch a school play, Friday Happy Hour at a local brewery, and weekends camping in the woods!
 * __We believe in giving back to our community.__
 	* Community can be local, or wherever we do business across the US. 
 	* We donate annually to the Cystic Fibrosis Foundation, Allied Women Entrepreneurs, Girls Who Code, and Child's Play.
 	* 501c3 nonprofits receive a blanket 20% discount for all services.
 	* Every July, we build one *100% FREE* website for a nonprofit organization nominated by our audience.
+	* Full-time employees get paid time off for volunteering with organizations of their choice.
 * __We believe "someday" is not a day of the week.__
 	* We set goals and we meet them.
 	* We don't let fear of failure hold us back.
