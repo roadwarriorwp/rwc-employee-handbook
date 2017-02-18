@@ -1,19 +1,10 @@
 #Code of Conduct Policy
 
-This code of conduct applies to Road Warrior Creative employees in all capacities where they represent or can be affliated with our company, including:
+This code of conduct applies to Road Warrior Creative employees and contractors in all capacities where they represent or can be affliated with our company, including:
 
 * Road Warrior Creative online communities and platforms, including but not limited to 
-	* Basecamp
-	* GitHub
-	* WordPress.org
-	* Zendesk
-	* Facebook
-	* Google Plus
-	* Instagram
-	* LinkedIn
-	* Pinterest
-	* Twitter
-	* YouTube
+	* Internal platforms such as Basecamp, GitHub, WordPress.org, and Zendesk
+	* Social media sites such as Facebook, Google Plus, Instagram, LinkedIn, Pinterest, Twitter, and YouTube
 * In locations or during events that Road Warrior Creative rents, sponsors, or attends in an official capacity
 * And wherever an employee publicly associates themselves with our company.
 
