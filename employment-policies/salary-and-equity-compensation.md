@@ -9,7 +9,8 @@ Fair compensation is critical to making Road Warrior Creative a desirable place 
 * Traditional "two car" families can potentially save thousands more by dropping the extra car (and car payment).
 * For those that like frequent changes of scenery, you can do your job from just about any coffee shop or library that has WiFi.
 * For those that love to travel, you can work anywhere with 4-G + data coverage.
-* Say goodbye to being micromanaged: As long as your work is done well and on-schedule, we prefer maintain a "hands off" approach.
+* Say goodbye to being micromanaged: As long as your work is done well and on-schedule, we prefer to maintain a "hands off" approach.
+* Working from home with a flexible schedule is more family and pet friendly.
 
 For every employee, compensation begins with a reasonable base salary that is designed to check the box of "enough" for individuals already excited about working remotely. To better align the motivations of our employees, we have a standard rubric that determines compensation for all employees. All full-time Road Warrior Creative employees fall into one of six options based on their job description and years of past experience as follows:
 
@@ -42,9 +43,9 @@ This annual incentive bonus plan is designed to provide additional incentive-bas
 * You are a full-time employee of the company.
 * You have held your current position for more than 90 days.
 * Your job performance is considered to be in good standing.
-* The total bonus pool will **not** exceed 40% of Road Warrior Creative's estimated post-tax profits for the year. (Calculated every December.) 
+* The total bonus pool will **not** exceed 40% of Road Warrior Creative's estimated post-tax profits for the calendar year. (Calculated the following March.) 
 
-Bonuses are computed as a percentage of wages or base salary received as of year-end. Bonus payments will be made no later than January 31st of the following year. The payment will be taxed at the flat Internal Revenue Service (IRS) rate, plus applicable state rates for bonus payments. In order to incentivize long-term stays with Road Warrior Creative, the following bonus structure will be used:
+Bonuses are computed as a percentage of wages or base salary received as of year-end. Bonus payments will be made no later than April 30th of the following year. The payment will be taxed at the flat Internal Revenue Service (IRS) rate, plus applicable state rates for bonus payments. In order to incentivize long-term stays with Road Warrior Creative, the following bonus structure will be used:
 
 Time With Company | % of Wages/Salary
 ------------ | -------------
@@ -64,7 +65,7 @@ Patrick is a copywriter just out of college (non-technical) and has < 2 years wi
 
 As can be seen, using this method gives every employee a comfortable "base" salary tied to experience and the technical challenges of their position, with regular adjustments for cost of living built in. The remainder of their compensation is tied directly to business profit and length of time with the company. At Road Warrior Creative, we’re hoping to build a loyal team that grows with us, and we believe sharing a substantial portion of our profits with employees is the best way to accomplish that. 
 
-**Note:** _Company officers' compensation does not follow this rubric, as all company officers are given an ownership stake in Road Warrior Creative, LLC._
+**Note:** _Company officers' compensation does not follow this rubric, as all company officers are given an ownership stake in Road Warrior Creative and paid substantially lower annual salaries + reasonable owner's draws._
 
 ##Equity Compensation
 
