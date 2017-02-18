@@ -9,16 +9,19 @@ Why did we decide to make our employee handbook open source? We believe in trans
 * __We believe quality of life matters.__
 	* Our employees can live anywhere and work everywhere.
 	* Quality of work produced is valued over hours clocked.
-	* Work should be fun and challenging.
+	* We think work should be fun and each day should should bring new, exciting challenges. If you don’t like something, change it!
+	* We believe in work/life balance – family, happiness, health all come first.
 	* We do not put profits above people, relationships, or self-care.
 * __We believe sharing knowledge builds loyalty.__
 	* Education and training are a core component of what we do.
 	* We create tools and solutions that give control back to the client. 
-	* Empowering and educating people builds trust and fuels long-term partnerships.
+	* We create internal learning and growth opportunities for employees, and do our best to support their participation in outside educational experiences.
+	* We believe that empowering and educating people builds trust and fuels long-term partnerships.
 * __We believe in growing relationships, not transactions.__
 	* In every interaction, we strive to increase long-term value and impact.
 	* Big or small, each new project is the start of an ongoing partnership.
-	* Putting people first: We seek to connect with clients and employees on a human level.
+	* We see ourselves and our clients as one team working towards one goal.
+	* We believe in always putting people first: We seek to connect with clients and employees on a human level and place importance on shaping an experience that brings them back year after year.
 * __We believe the 9-5 is dead.__
 	* The internet and social media don't have set business hours -- and neither do we!
 	* A business built on the internet needs to be fluid and responsive, whether it's 2pm *or 2am*.
@@ -26,14 +29,15 @@ Why did we decide to make our employee handbook open source? We believe in trans
 * __We believe in giving back to our community.__
 	* Community can be local, or wherever we do business across the US. 
 	* We donate annually to the Cystic Fibrosis Foundation, Allied Women Entrepreneurs, Girls Who Code, and Child's Play.
-	* 501c3 nonprofits receive a blanket 20% discount for all services.
-	* Every July, we build one *100% FREE* website for a nonprofit organization nominated by our audience.
+	* 501c3 nonprofits receive a blanket 20% discount for all services and we build one *100% FREE* website for a nonprofit organization every year.
+	* We are active participants in our local WordPress/WordCamp communities.
 	* Full-time employees get paid time off for volunteering with organizations of their choice.
 * __We believe "someday" is not a day of the week.__
 	* We set goals and we meet them.
 	* We don't let fear of failure hold us back.
 	* We take risks and try new things.
 	* We can always be more, be better and we can always grow. 
+	* We believe in inspiring others to be change agents in their businesses
 
 Like the internet, our business is in a constant state of change -- we're always trying to improve our internal processes. A big part of that falls on updating and maintaining this handbook: __We actively encourage all feedback and suggestions on ways that we should modify or improve this document.__
 
