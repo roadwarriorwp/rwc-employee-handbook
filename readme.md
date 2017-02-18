@@ -62,6 +62,7 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 ###Employment Policies
 * [At-Will Employment](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/at-will-employment.md)
 * [Code of Conduct](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/code-of-conduct.md)
+* [Dress Code](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/dress-code.md)
 * [Drug and Alcohol](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/drug-and-alcohol.md)
 * [Employee Complaints](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/employee-complaints.md)
 * [Employee Privacy](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/employee-privacy.md)
