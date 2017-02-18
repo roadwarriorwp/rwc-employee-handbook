@@ -27,9 +27,9 @@ This code of conduct outlines our expectations for employee behavior as well as 
 
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any employee of Road Warrior Creative. 
 
-Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of work or other events; inappropriate physical contact, and unwelcome sexual attention.  Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.
+Harassment includes: offensive verbal comments related to any of the protected classes listed above; inappropriate use of nudity and/or sexual images; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of work or other events; inappropriate physical contact, and unwelcome sexual attention.  Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes/comments can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance.
 
 A supplemental goal of this code of conduct is to emphasize the importance of following all licenses and copyrights as required by law and common courtesy. Theft or lack of attribution when required of text, images, or code is unacceptable.
 
