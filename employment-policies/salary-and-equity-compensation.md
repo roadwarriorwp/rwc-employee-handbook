@@ -34,7 +34,7 @@ In addition to base salary, employees may have the opportunity to earn profit-ba
 
 ##Annual Cost-of-Living Adjustment:
 
-Every January, all employees will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). Adjustments will be waived for any year in which the CPI reports inflation as a negative percentage.  
+Every January, all employees will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). These annual adjustments will cap at 3.5% and will be waived for any year in which the CPI reports inflation as a negative percentage.  
 
 ##Annual Incentive Bonus Plan:
 
