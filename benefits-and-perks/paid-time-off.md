@@ -1,4 +1,4 @@
-#Paid Time Off (PTO)
+# Paid Time Off (PTO)
 
 Taking time off and recharging is critical to doing your best work at Road Warrior Creative. In addition to the recognized Holiday List, Road Warrior Creative offers the following per year:
 
