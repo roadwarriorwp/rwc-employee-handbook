@@ -1,6 +1,6 @@
-#Salary and Equity Compensation Policy
+# Salary and Equity Compensation Policy
 
-##Salary Compensation
+## Salary Compensation
 
 Fair compensation is critical to making Road Warrior Creative a desirable place to work and is a key component of helping our employees to lead happy, healthy lives inside and outside of the office. However, we believe that salary is just _one_ of many components that makes a job rewarding. In today's job market, what Road Warrior Creative offers -- real jobs with real benefits that let you work from anywhere with an internet connection -- is a __major__ perk. Here's why:
 
@@ -14,7 +14,7 @@ Fair compensation is critical to making Road Warrior Creative a desirable place 
 
 For every employee, compensation begins with a reasonable base salary that is designed to check the box of "enough" for individuals already excited about working remotely. To better align the motivations of our employees, we have a standard rubric that determines compensation for all employees. All full-time Road Warrior Creative employees fall into one of six options based on their job description and years of past experience as follows:
 
-##Employee Salary Table:
+## Employee Salary Table:
 
 Positions at Road Warrior Creative are divided into "Technical" and "Non-Technical" roles.
 
@@ -32,11 +32,11 @@ We count experience as any time doing the same category of job at a company simi
 
 In addition to base salary, employees may have the opportunity to earn profit-based incentive bonuses.
 
-##Annual Cost-of-Living Adjustment:
+## Annual Cost-of-Living Adjustment:
 
 Every January, all employees will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). These annual adjustments will cap at 3.5% and will be waived for any year in which the CPI reports inflation as a negative percentage.  
 
-##Annual Incentive Bonus Plan:
+## Annual Incentive Bonus Plan:
 
 This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. To be eligible for the annual incentive bonus, the following must be true at the time bonuses are distributed:
 
@@ -67,13 +67,13 @@ As can be seen, using this method gives every employee a comfortable "base" sala
 
 **Note:** _Company officers' compensation does not follow this rubric, as all company officers are given an ownership stake in Road Warrior Creative and paid substantially lower annual salaries + reasonable owner's draws._
 
-##Equity Compensation
+## Equity Compensation
 
 Currently only Road Warrior Creative officers are allowed to own equity in the company. Equity is currently represented as blanket percentage ownership only. Here are the current officer positions and the equity percentage associated with each:
 
 * Amber Hinds, Creative Director / CEO - 55% Equity
 * Christopher Hinds, Chief Operations Officer - 45% Equity
 
-###_Other Considerations_
+### _Other Considerations_
 
 _At the beginning of each year (in January), we will adjust and update this document to ensure that it continues to align with the interests of both employees and the company, and to ensure that the identity of company officers and distribution of equity is accurately reflected._
