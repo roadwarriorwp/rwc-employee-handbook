@@ -49,9 +49,9 @@ Bonuses are computed as a percentage of wages or base salary received as of year
 
 Time With Company | % of Wages/Salary
 ------------ | -------------
-< 2 Years | 5.0%
+Less Than 2 Years | 5.0%
 2-5 Years | 10.0%
-> 5 Years | 15.0%
+More Than 5 Years | 15.0%
 
 *-- EXAMPLE 1 --*
 
