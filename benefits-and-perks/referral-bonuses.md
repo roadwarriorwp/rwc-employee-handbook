@@ -1,6 +1,6 @@
-#Referral Bonuses
+# Referral Bonuses
 
-##New Hire Referrals
+## New Hire Referrals
 
 __NOTE:__ *Employees with an ownership stake in Road Warrior Creative are not eligible for this bonus.*
 
@@ -18,7 +18,7 @@ To make a referral, current employees should send the candidate’s contact info
 
 New hire referral bonuses will be paid following the conclusion of the referred employee's 90 day orientation period.  The referring employee must still be employed by Road Warrior Creative at this time to be eligible for bonus.
 
-##New Client Referrals
+## New Client Referrals
 
 __NOTE:__ *Employees with an ownership stake in Road Warrior Creative and employees whose job descriptions are focused on sales and/or aquiring new business are not eligible for this bonus.*
 
