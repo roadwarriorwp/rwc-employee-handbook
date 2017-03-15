@@ -1,4 +1,4 @@
-#Qualifying for Benefits
+# Qualifying for Benefits
 
 Employees are eligable based upon their full- or part-time employment status:
 
