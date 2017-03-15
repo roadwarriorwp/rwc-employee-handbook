@@ -1,4 +1,4 @@
-#Dress Code
+# Dress Code
 
 One of the great benefits of working remotely is there is no dress code!  Whether you start your day getting dressed in your professional best or prefer to work in your pajamas, we encourage each employee to do what works best for him or her.  
 
