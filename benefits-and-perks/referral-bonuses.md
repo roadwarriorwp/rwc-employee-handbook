@@ -34,6 +34,6 @@ To make a referral, employees should send the prospective client's information t
 
 New client referral bonuses will be paid within 90 day(s) of the new client's first invoice being paid in full. The referring employee must still be employed by Road Warrior Creative on the date that the new client's first invoice is paid in full. 
 
-##Questions about referral bonuses?
+## Questions about referral bonuses?
 
 Any disputes or interpretations of this program should be sent to Chris Hinds, COO.  Road Warrior Creative reserves the right to have final say in intrepretions of eligibilty for referal bonuses.
