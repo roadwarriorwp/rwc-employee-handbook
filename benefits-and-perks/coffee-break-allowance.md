@@ -1,4 +1,4 @@
-#Coffee Break Allowance
+# Coffee Break Allowance
 
 For employees that would like to spend time working in their local coffee shop or cafe each week, __Road Warrior Creative will buy your first coffee, tea, infused water, or smoothie__.
 
