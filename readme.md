@@ -1,7 +1,7 @@
 ![Road Warrior Creative Logo](http://roadwarriorcreative.com/wp-content/uploads/2015/10/RWC-Logo-360w.png)
-#Open Source Employee Handbook
+# Open Source Employee Handbook
 
-##About this Handbook
+## About this Handbook
 
 The beauty of the web and open source is that now *anyone* can see how we run our company, no matter where they are. You're looking at the central repository for how Road Warrior Creative conducts its day-to-day operations. 
 
@@ -47,9 +47,9 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 - [Amber](https://roadwarriorcreative.com/team/amber-hinds/), Creative Director and CEO 
 - [Chris](https://roadwarriorcreative.com/team/chris-hinds/), Chief Operations Officer
 
-##Table of Contents
+## Table of Contents
 
-###Benefits & Perks
+### Benefits & Perks
 * [Coffee Break Allowance](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee-break-allowance.md)
 * [Continuing Education](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/continuing-education.md)
 * [Employee Absences](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/employee-absences.md)
@@ -59,7 +59,7 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * [Qualifying for Benefits](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/qualifying-for-benefits.md)
 * [Referral Bonuses](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/referral-bonuses.md)
 
-###Employment Policies
+### Employment Policies
 * [At-Will Employment](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/at-will-employment.md)
 * [Code of Conduct](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/code-of-conduct.md)
 * [Dress Code](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/dress-code.md)
@@ -70,13 +70,13 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * [Employee Compensation](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/salary-and-equity-compensation.md)
 * [Remote Work](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/working-remotely.md)
 
-###New Hire Documents
+### New Hire Documents
 * [About Required Postings](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/about-required-postings.md)
 * [Company Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/company-document-list.md)
 * [Federal Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/federal-documents-list.md)
 * [State Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/state-documents-list.md)
 
-###Operations Documents - _This section is incomplete. Only linked sections contain content._
+### Operations Documents - _This section is incomplete. Only linked sections contain content._
 * Best Practices: 1Password
 * Best Practices: Basecamp
 * Best Practices: Dropbox
@@ -94,7 +94,7 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * Operations: Website Design/Development
 * Organizational Structure
 
-##Changes to Handbook Policy
+## Changes to Handbook Policy
 
 Road Warrior Creative in its sole discretion reserves the right to administer, modify, or remove any part of this handbook with or without notice. 
 
