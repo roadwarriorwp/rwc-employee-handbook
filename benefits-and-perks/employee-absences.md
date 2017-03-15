@@ -1,12 +1,12 @@
-#Employee Absences
+# Employee Absences
 
-##Non-Protected Absences
+## Non-Protected Absences
 
 Request and approval of non-protected absences will be handled on a per-case basis between the employee and his/her direct supervisor. 
 
 Employees that miss work either without notice or without an adequate/reasonable explanation, will be immediately asked to clarify such an absence with their supervisor. If the employee does not clarify the nature of their absence or if their explanation is deemed unsatisfactory by their supervisor, the employee may be subject to immediate separation.
 
-##Protected Absences
+## Protected Absences
 
 The following absences are considered protected:
 
@@ -16,6 +16,6 @@ The following absences are considered protected:
 * Time missed for military leave as excused by Uniform Services Employment and Reemployment Rights Act (USERRA).
 * Time missed due to being directly impacted by natural disaster(s) or electricity/internet outage(s).
 
-##Other Leaves of Absence
+## Other Leaves of Absence
 
 Road Warrior Creative will grant leaves of absence for other activities as required by law. Unless otherwise required by law or by Road Warrior Creative's company policy, employees will not be paid for non-protected absences.
