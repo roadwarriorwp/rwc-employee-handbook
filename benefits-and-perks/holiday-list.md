@@ -1,4 +1,4 @@
-#Holiday List
+# Holiday List
 
 Road Warrior Creative will be closed for business on the dates listed below. All employees will receive paid leave during these date(s). Paid time off (PTO) for Federal holidays is provided _in addition_ to regular PTO benefits.
 
