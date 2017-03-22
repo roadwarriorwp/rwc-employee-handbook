@@ -20,7 +20,7 @@ New hire referral bonuses will be paid following the conclusion of the referred 
 
 ## New Client Referrals
 
-__NOTE:__ *Employees with an ownership stake in Road Warrior Creative and employees whose job descriptions are focused on sales and/or aquiring new business are not eligible for this bonus.*
+__NOTE:__ *Employees with an ownership stake in Road Warrior Creative and employees whose job descriptions are focused on sales and/or acquiring new business are not eligible for this bonus.*
 
 While we certainly do not expect all of our employees to be door-to-door salespeople, Road Warrior Creative does want to show its appreciation for employees who go above and beyond by directly referring us new clients. 
 
@@ -36,4 +36,4 @@ New client referral bonuses will be paid within 90 day(s) of the new client's fi
 
 ## Questions about referral bonuses?
 
-Any disputes or interpretations of this program should be sent to Chris Hinds, COO.  Road Warrior Creative reserves the right to have final say in intrepretions of eligibilty for referal bonuses.
+Any disputes or interpretations of this program should be sent to Chris Hinds, COO.  Road Warrior Creative reserves the right to have final say in intrepretations of eligabilty for referral bonuses.
