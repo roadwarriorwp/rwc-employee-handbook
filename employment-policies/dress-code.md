@@ -6,7 +6,7 @@ There are three exceptions to Road Warrior Creative's non-dress code policy, out
 
 ## Team Meetings/Video Chats
 
-When participating in team meetings or video chats with other employees, the dress code is simple: wear clothes and keep in mind our [Code of Conduct](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/code-of-conduct.md).  Employees should not dress in a way which could make other employees feel uncomfortable or harrassed.
+When participating in team meetings or video chats with other employees, the dress code is simple: wear clothes and keep in mind our [Code of Conduct](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/code-of-conduct.md).  Employees should not dress in a way which could make other employees feel uncomfortable or harassed.
 
 ## Client Meetings/Video Chats
 
@@ -16,4 +16,4 @@ During sales pitch meetings, it may be necessary for employees to dress in busin
 
 ## At Public Events/Conferences
 
-When representing Road Warrior Creative at public events, meetups, workshops, and/or conferences, employees are expected to respect the dress code policies/norms of each specific event or venue.  Some venues or conferences, such as Chamber of Commerce events, may require business casual or business professional dress, wheras others, such as WordPress meetups and WordCamps, are far less formal.
+When representing Road Warrior Creative at public events, meetups, workshops, and/or conferences, employees are expected to respect the dress code policies/norms of each specific event or venue.  Some venues or conferences, such as Chamber of Commerce events, may require business casual or business professional dress, whereas others, such as WordPress meetups and WordCamps, are far less formal.
