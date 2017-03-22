@@ -1,6 +1,6 @@
 # Code of Conduct Policy
 
-This code of conduct applies to Road Warrior Creative employees and contractors in all capacities where they represent or can be affliated with our company, including:
+This code of conduct applies to Road Warrior Creative employees and contractors in all capacities where they represent or can be affiliated with our company, including:
 
 * Road Warrior Creative online communities and platforms, including but not limited to 
 	* Internal platforms such as Basecamp, GitHub, WordPress.org, and Zendesk
@@ -10,9 +10,9 @@ This code of conduct applies to Road Warrior Creative employees and contractors 
 
 ## Purpose
 
-Road Warrior Creative is commited to creating an inclusive environment for everyone - both employees and clients - regardless of race, color, ethnicity, national origin, age, sex, sexual orientation, gender identity, religion, political affiliation, disbility, or any other protected class as defined by state and federal law.
+Road Warrior Creative is committed to creating an inclusive environment for everyone - both employees and clients - regardless of race, color, ethnicity, national origin, age, sex, sexual orientation, gender identity, religion, political affiliation, disability, or any other protected class as defined by state and federal law.
 
-This code of conduct outlines our expectations for employee behavior as well as the consequences for unacceptable behavior.  We invite all employees to help us realize a safe and positive experience for everyone on our team and all people with whom we professionally and publically engage.
+This code of conduct outlines our expectations for employee behavior as well as the consequences for unacceptable behavior.  We invite all employees to help us realize a safe and positive experience for everyone on our team and all people with whom we professionally and publicly engage.
 
 ## Expected Behavior
 
@@ -27,7 +27,7 @@ This code of conduct outlines our expectations for employee behavior as well as 
 
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any employee of Road Warrior Creative. 
 
-Harassment includes: offensive verbal comments related to any of the protected classes listed above; inappropriate use of nudity and/or sexual images; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of work or other events; inappropriate physical contact, and unwelcome sexual attention.  Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.
+Harassment includes: offensive actions or verbal comments related to any of the protected classes listed in this policy; inappropriate use of nudity and/or sexual images; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of work or other events; inappropriate physical contact, and unwelcome sexual attention.  Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes/comments can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance.
 
@@ -37,7 +37,7 @@ A supplemental goal of this code of conduct is to emphasize the importance of fo
 
 Unacceptable behavior will not be tolerated whether by employees, officers, or clients of Road Warrior Creative.  Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If an employee engages in unacceptable behavior, Road Warrior Creative's officers or the employee's direct supervisor may take any action they deem appropriate, up to and including suspension without pay or immediate dismissal.
+If an employee engages in unacceptable behavior, Road Warrior Creative's officers or the employee's direct supervisor may take any action they deem appropriate, up to and including suspension or immediate dismissal. Employees may also be subject to legal action, dependent upon the sensitivity and scope of conduct and if licenses or copyrights are compromised.
 
 ## What To Do If You Witness Or Are Subject To Unacceptable Behavior
 
