@@ -11,3 +11,18 @@ Once a complaint has been made, the company's officers will meet and determine h
 We will not engage in or allow retaliation against any employee who makes a good faith complaint or participates in an investigation. If you believe that you are being subjected to any kind of negative treatment because you made or were questioned about a complaint, report the conduct immediately to an officer of the company.
 
 Currently, Road Warrior Creative is too small to have an internal group or department that can independently respond to complaints, so if company officer(s) are named in complaints, they will do their best to hold one another accountable. Where appropriate, the officers will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.
+
+## Anti-Retaliation and Whistleblower Protection
+
+In accordance with anti-retaliation and whistleblower protection regulations, Road Warrior Creative strictly prohibits any form of retaliation against an employee who:
+
+* Makes a good faith complaint or discusses making a good faith complaint;
+* Assists in the handling or investigation of a good faith complaint;
+* Objects to, or refuses to participate in any activity, policy or practice, which the employee reasonably believes is a violation of the law;
+* Provides input into investigations regarding violations of the law; or
+* Participates or assists in a legal action or hearing regarding non-compliance with the law.
+ 
+Retaliation is defined as any adverse consequence direct toward the employee including but not limited to termination, demotion, harassment, suspension, intimidation, coercion, or discriminatory action as a result of his or her making a good faith complaint or their involvement or lack thereof in an investigation.  All employees, however, remain subject to all standards of conduct as outlined in Road Warrior Creative’s policies.
+
+Road Warrior Creative takes all complaints of retaliation very seriously.  All such complaints will be reviewed promptly and, where appropriate, investigated.  Employees found to have engaged in retaliation will be subject to disciplinary action, up to and including termination.
+
