@@ -2,9 +2,11 @@
 
 ## Non-Protected Absences
 
-Request and approval of non-protected absences will be handled on a per-case basis between the employee and his/her direct supervisor. 
+Employees of Road Warrior Creative are expected to report to work on time and to avoid unnecessary absences. We understand that there may be times when employees must miss work. However, frequent absenteeism or frequent tardiness puts an unnecessary strain on the company, and therefore employees may be subject to disciplinary action up to and including termination of employment.
 
-Employees that miss work either without notice or without an adequate/reasonable explanation, will be immediately asked to clarify such an absence with their supervisor. If the employee does not clarify the nature of their absence or if their explanation is deemed unsatisfactory by their supervisor, the employee may be subject to immediate separation.
+In the event of absence or tardiness, employees shall provide their manager with as much advance notice as possible. 
+
+Employees that will be absent more than one day will need to notify your manager or director each day of absence. Employees that do not call to notify their manager for three consecutively scheduled work days will be considered to have abandoned their positions and voluntarily separated from Road Warrior Creative.
 
 ## Protected Absences
 
