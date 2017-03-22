@@ -8,7 +8,7 @@ If you have worked at an office before, now you lack a default group to go out t
 
 ## Establishing a Work Schedule
 
-All employees are required to have at least 75% of their work time scheduled, so that managment knows the best time(s) to contact and collaborate with each employee. Having scheduled coverage is especially important for employees that handle support and client communications, which typically take place during normal business hours across all US time zones. *The remaining 25% of work time can take place whenever the employee would like it to.* 
+All employees are required to have at least 75% of their work time scheduled, so that management knows the best time(s) to contact and collaborate with each employee. Having scheduled coverage is especially important for employees that handle support and client communications, which typically take place during normal business hours across all US time zones. *The remaining 25% of work time can take place whenever the employee would like it to.* 
 
 Schedules must be mutually agreed upon in advance by the employee and his/her direct supervisor. In the event that work quality suffers or deadlines are not being met, an employee may be asked to schedule up to 100% of their work time. 
 
