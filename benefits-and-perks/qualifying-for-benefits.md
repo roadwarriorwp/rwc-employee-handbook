@@ -1,6 +1,6 @@
 # Qualifying for Benefits
 
-Employees are eligable based upon their full- or part-time employment status:
+Employees are eligible based upon their full- or part-time employment status:
 
 * Employees are considered full-time when working 30 hours or more during a full 5-day work week. 
 * Employees are considered part-time when working less than 30 hours during a full 5-day work week. 
