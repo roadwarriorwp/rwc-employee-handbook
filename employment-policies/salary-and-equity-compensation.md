@@ -18,15 +18,16 @@ For every employee, compensation begins with a reasonable base salary that is de
 
 Positions at Road Warrior Creative are divided into "Technical" and "Non-Technical" roles.
 
-**Technical** - A position that requires specific knowledge or skills which can only be applied to that field or area of work and represent a specialty or focus. (e.g. developer, designer)
+**Technical** - A position that requires specific knowledge or skills which can only be applied to that field or area of work and represent a specialty or focus. Technical positions include: Front-End Developer, Back-End Developer, SEO Specialist
 
-**Non-Technical** - A position that requires general knowledge or skills that have a broad range of applications and do not represent a specialty or focus. (e.g. social media manager, copywriter)
+**Non-Technical** - A position that requires general knowledge or skills that have a broad range of applications and do not represent a specialty or focus. Non-technical positions include: Project Manager, Graphic Designer, Social Media Manager, Copywriter
 
 Experience | Technical | Non-Technical
 ------------ | ------------- | -------------
 Less Than 2 Years | $50,000 | $35,000
 2-5 Years | $60,000 | $45,000
 More Than 5 Years | $70,000 | $55,000
+Salary Cap | $80,000 | $65,000
 
 We count experience as any time doing the same category of job at a company similar to Road Warrior Creative, such that the experience is relevant to the job being offered.
 
@@ -34,16 +35,17 @@ In addition to base salary, employees may have the opportunity to earn profit-ba
 
 ## Annual Cost-of-Living Adjustment:
 
-Every January, all employees will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). These annual adjustments will cap at 3.5% and will be waived for any year in which the CPI reports inflation as a negative percentage.  
+Every January, all employees will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). Adjustments will cap at 3.5% per-year and will be waived for any year in which the CPI reports inflation as a negative percentage. Any employee who has reached the salary cap for their position (as shown in the Employee Salary Table) will no longer be eligible for these adjustments.
 
 ## Annual Incentive Bonus Plan:
 
-This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. To be eligible for the annual incentive bonus, the following must be true at the time bonuses are distributed:
+This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. In order for bonuses to be distributed, the total bonus pool must not exceed 40% of Road Warrior Creative's estimated post-tax profits for the calendar year (Calculated the following March). In the event that this requirement is not met, Road Warrior Creative may, in its sole discretion, choose to either __(a)__ Distribute no bonuses. OR __(b)__ Adjust bonuses such that the total adjusted bonus pool meets the 40% requirement described above.
+
+To be eligible for the annual incentive bonus, the following must be true at the time bonuses are distributed:
 
 * You are a full-time employee of the company.
-* You have held your current position for more than 90 days.
+* You held your current position for at least 90 days during the calendar year for which bonsuses are being distributed.
 * Your job performance is considered to be in good standing.
-* The total bonus pool will **not** exceed 40% of Road Warrior Creative's estimated post-tax profits for the calendar year. (Calculated the following March.) 
 
 Bonuses are computed as a percentage of wages or base salary received as of year-end. Bonus payments will be made no later than April 30th of the following year. The payment will be taxed at the flat Internal Revenue Service (IRS) rate, plus applicable state rates for bonus payments. In order to incentivize long-term stays with Road Warrior Creative, the following bonus structure will be used:
 
@@ -52,16 +54,6 @@ Time With Company | % of Wages/Salary
 Less Than 2 Years | 5.0%
 2-5 Years | 10.0%
 More Than 5 Years | 15.0%
-
-*-- EXAMPLE 1 --*
-
-Patrick is a copywriter just out of college (non-technical) and has < 2 years with the company. Sarah is a social media manager (non-technical) that started her career with the company 3 years ago. Edward is a full stack web developer (technical) that already had 5 years experience at the time of hire and has stayed on with the company over the last 6 years. The following will be those employees' total compensation: (Cost of Living Adjustments are based on average US CPI)
-
-* Patrick: $35,000 Salary + $350 Cost of Living Adjustment (1 Year) + $1,768 Bonus = $37,118 Total Compensation
-* Sarah: $45,000 Salary + $2,055 Cost of Living Adjustments (3 Years) + $4,706 Bonus = $51,761 Total Compensation
-* Edward: $70,00 Salary + $6,316 Cost of Living Adjustments (6 Years) + $11,447 Bonus = $87,763 Total Compensation
-
-*-- End of Example --*
 
 As can be seen, using this method gives every employee a comfortable "base" salary tied to experience and the technical challenges of their position, with regular adjustments for cost of living built in. The remainder of their compensation is tied directly to business profit and length of time with the company. At Road Warrior Creative, we’re hoping to build a loyal team that grows with us, and we believe sharing a substantial portion of our profits with employees is the best way to accomplish that. 
 
