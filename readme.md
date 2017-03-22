@@ -1,6 +1,10 @@
 ![Road Warrior Creative Logo](http://roadwarriorcreative.com/wp-content/uploads/2015/10/RWC-Logo-360w.png)
 # Open Source Employee Handbook
 
+## Equal Opportunity
+
+Road Warrior Creative is an Equal Opportunity Employer. Please [CLICK HERE](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/equal-opportunity-employment.md) to review our policy.
+
 ## About this Handbook
 
 The beauty of the web and open source is that now *anyone* can see how we run our company, no matter where they are. You're looking at the central repository for how Road Warrior Creative conducts its day-to-day operations. 
