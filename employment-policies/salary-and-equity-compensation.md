@@ -39,7 +39,7 @@ Every January, all employees will receive an annual cost of living adjustment ti
 
 ## Annual Incentive Bonus Plan:
 
-This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. In order for bonuses to be distributed, the total bonus pool must not exceed 40% of Road Warrior Creative's estimated post-tax profits for the calendar year (Calculated the following March). In the event that this requirement is not met, Road Warrior Creative may, in its sole discretion, choose to either __(a)__ Distribute no bonuses. OR __(b)__ Adjust bonuses such that the total adjusted bonus pool meets the 40% requirement described above.
+This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. In order for bonuses to be distributed, the total bonus pool must not exceed 40% of Road Warrior Creative's estimated profits after tax and distributions for the calendar year (Calculated the following March). In the event that this requirement is not met, Road Warrior Creative may, in its sole discretion, choose to either __(a)__ Distribute no bonuses. OR __(b)__ Adjust bonuses such that the total adjusted bonus pool meets the 40% requirement described above.
 
 To be eligible for the annual incentive bonus, the following must be true at the time bonuses are distributed:
 
