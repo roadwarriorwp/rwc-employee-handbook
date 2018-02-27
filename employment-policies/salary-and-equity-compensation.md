@@ -12,7 +12,7 @@ Fair compensation is critical to making Road Warrior Creative a desirable place 
 * Say goodbye to being micromanaged: As long as your work is done well and on-schedule, we prefer to maintain a "hands off" approach.
 * Working from home with a flexible schedule is more family and pet friendly.
 
-For every employee, compensation begins with a reasonable base salary that is designed to check the box of "enough" for individuals already excited about working remotely. To better align the motivations of our employees, we have a standard rubric that determines compensation for all employees. All full-time Road Warrior Creative employees fall into one of six options based on their job description and years of past experience as follows:
+For every employee, compensation begins with a reasonable base salary that is designed to check the box of "enough" for individuals already excited about working remotely. To better align the motivations of our employees, we have a standard rubric that determines compensation for all employees. All full-time Road Warrior Creative employees fall into one of six options based on their job description and years of past experience, as detailed in the next section.
 
 ## Employee Salary Table:
 
