@@ -6,7 +6,7 @@ Please note that we occasionally observe Federal Holidays on different dates in 
 
 Federal Holiday | 2018 Observed Date | 2019 Observed Date
 ------------ | ------------- | -------------
-New Year's Day | Monday, January 1 | Tuesday, January 3
+New Year's Day | Monday, January 1 | Tuesday, January 1
 MLK Day | Monday, January 15 | Monday, January 21
 Presidents Day| Monday, February 19 | Monday, February 18
 Memorial Day | Monday, May 28 | Monday, May 27
