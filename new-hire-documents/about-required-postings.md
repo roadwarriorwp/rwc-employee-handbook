@@ -1,6 +1,6 @@
 # About Required Workplace Postings
 
-Road Warrior Creative recognizes that employees need to understand their protected individual rights under State and Federal Law. Since our company is distributed (i.e. we do not maintain a physical office space), employees can find all postings and notices in the "Road Warriors" company hub on Basecamp, listed under "Docs & Files" > "Employee Documents". Employees can also access notices directly by clicking the links below. (Note: You must have a working Basecamp account with access to the "Road Warriors" company hub.)
+Road Warrior Creative recognizes that employees need to understand their protected individual rights under State and Federal Law. Since our company is distributed, employees can find all postings and notices in the "Road Warriors" company hub on Basecamp, listed under "Docs & Files" > "Employee Documents". Employees can also access notices directly by clicking the links below. (Note: You must have a working Basecamp account with access to the "Road Warriors" company hub.)
 
 Please note that Federal posters and notices apply to **all** employees, while State posters and notices apply to **only** employees that reside there.
 
@@ -12,14 +12,11 @@ Please note that Federal posters and notices apply to **all** employees, while S
 * [OSHA Job Safety & Health](https://3.basecamp.com/3579237/buckets/1722349/uploads/390497246)
 * [Uniformed Services Employment and Reemployment Rights Act](https://3.basecamp.com/3579237/buckets/1722349/uploads/390497233) (USERRA)
 
-## Colorado Required Posters & Notices
+## Texas Required Posters & Notices
 
-* [CO Notice of Paydays](https://3.basecamp.com/3579237/buckets/1722349/uploads/390503040)
-* [CO Minimum Wage](https://3.basecamp.com/3579237/buckets/1722349/uploads/390502523)
-* [CO Anti-Discrimination](https://3.basecamp.com/3579237/buckets/1722349/uploads/390502515)
-* [CO Employment Security Act](https://3.basecamp.com/3579237/buckets/1722349/uploads/390502509)
-* [CO Notice of Injury](https://3.basecamp.com/3579237/buckets/1722349/uploads/390502505)
-* [CO Notice of Pregnant Workers Fairness Act](https://3.basecamp.com/3579237/buckets/1722349/uploads/390502499)
+* [TX Payday Law](https://3.basecamp.com/3579237/buckets/1722349/uploads/943984185)
+* [TX Workers Compensation Notice](https://3.basecamp.com/3579237/buckets/1722349/uploads/943984190)
+* [TX Unemployment Compensation](https://3.basecamp.com/3579237/buckets/1722349/uploads/943984197)
 
 ## Ohio Required Posters & Notices
 
