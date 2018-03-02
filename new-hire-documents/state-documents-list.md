@@ -2,9 +2,9 @@
 
 The following State documents are provided to all new hires and must be completed/returned as a condition of employment. Employees are only required to fill and return documents for the State in which they reside:
 
-## COLORADO
+## TEXAS
 
-_Road Warrior Creative is not aware of any required State-specific forms at this time._
+* TX New Hire Reporting (Online)
 
 ## OHIO
 
