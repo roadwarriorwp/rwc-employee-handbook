@@ -31,12 +31,12 @@ Item No. | Item Picture | Name/Description
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
-002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
+005 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
+006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
 
 ### Non-Technical Employees
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
-002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
+007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
