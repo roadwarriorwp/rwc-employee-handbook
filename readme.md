@@ -75,7 +75,7 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * [Remote Work](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/working-remotely.md)
 
 ### New Hire Documents
-* [Equipment Policy](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/equipment-policy)
+* [Equipment Policy](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/equipment-policy.md)
 * [About Required Postings](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/about-required-postings.md)
 * [Company Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/company-document-list.md)
 * [Federal Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/federal-documents-list.md)
