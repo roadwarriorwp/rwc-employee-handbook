@@ -2,7 +2,7 @@
 
 ## Issuing & Returning Equipment
 
-While working for Road Warrior Creative, employees are required to take proper care of all company property that they have been entrusted with. The employee's supervisor or a company officer will log all issued pieces of company property on the Xero Employee Portal, under the file of the applicable employee. At the end of their employment, employees are required return all property of Road Warrior Creative that they were issued and that the property will be returned in proper working order. This policy applies to the item(s) listed as available for procurement below, in addition to any other property acquired by the Company and issued to the employee. 
+While working for Road Warrior Creative, employees are required to take proper care of all company property that they have been entrusted with. The employee's supervisor or a company officer will log all issued pieces of company property on the Xero Employee Portal, under the file of the applicable employee. At the end of their employment, employees are required return all property of Road Warrior Creative that they were issued in proper working order. This policy applies to the item(s) listed as available for procurement below, in addition to any other property acquired by the Company and issued to the employee. 
 
 Road Warrior Creative equipment is expected to have a minimum lifespan of 4 years. Company equipment that is less than 4 years old and still in proper working order will not be considered for replacement. Road Warrior Creative reserves the right to keep equipment in rotation longer than 4 years, if the equipment still meets the needs of the company and individual employee.
 
