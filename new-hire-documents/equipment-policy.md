@@ -22,9 +22,9 @@ Equipment available for procurement has been divided into three categories: "All
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm
+001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm^
 002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/magic-mouse-200px.png) | Apple Magic Mouse 2 Wireless
-003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm
+003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm^
 004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
 
 ## Technical Employees
@@ -40,3 +40,5 @@ Item No. | Item Picture | Name/Description
 --- | --- | ---
 007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
 008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
+
+__^__ *You are not required to return these items marked with this symbol.
