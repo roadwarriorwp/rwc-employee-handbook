@@ -22,21 +22,21 @@ Equipment available for procurement has been divided into three categories: "All
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://drive.google.com/open?id=1GAybRrZvOFFtzGlaM6jC9_FEO4Wy1o1d) | Apple Ear Pods Wired 3.5mm
-002 | ![alt text](https://drive.google.com/open?id=12rYo04AELix-OOF0jYkJvqrrs2_rvNFo) | Apple Magic Mouse 2 Wireless
-003 | ![alt text](https://drive.google.com/open?id=1SKZTQyMlh5_QXONcuwibuQkEPJCIO07j) | Razer Hammerhead v2 Earbuds Wired 3.5mm
-004 | ![alt text](https://drive.google.com/open?id=1yaz3_jqUQUUi3tFyHPR2i45T1K2Em9_h) | Razer Atheris Mouse Wireless/Bluetooth
+001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm
+002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/magic-mouse-200px.png) | Apple Magic Mouse 2 Wireless
+003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm
+004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
 
 ## Technical Employees
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://drive.google.com/open?id=1Etc97FxIlr1s5CGia6avN8fEsrJhQCqt) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
-002 | ![alt text](https://drive.google.com/open?id=17z2B_TtL5FY-on_Uw1cbE1pjwhXfKDgr) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
+001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
+002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
 
 ### Non-Technical Employees
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://drive.google.com/open?id=11COgYzWqvP82D_GlVeulxVK8_Z0uA66J) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
-002 | ![alt text](https://drive.google.com/open?id=17z2B_TtL5FY-on_Uw1cbE1pjwhXfKDgr) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
+001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
+002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
