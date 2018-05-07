@@ -29,12 +29,16 @@ Item No. | Item Picture | Name/Description
 
 ## Technical Employees
 
+It is anticipated that a technical employee will be running multiple demanding applications (sometimes simultaneously) that require a higher level of computational resources and/or a much higher level of visual fidelity. (Examples include: Maintaining local development environment(s), compiling/running complex code, simultaneous testing across multiple browsers, running high-res graphic and video editing tools)
+
 Item No. | Item Picture | Name/Description
 --- | --- | ---
 005 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
 006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
 
 ### Non-Technical Employees
+
+It is anticipated that a non-technical employee will be running less demanding applications that are unlikely to require a great deal of computational resources, and can effectively work at a "standard" level visual fidelity. (Examples include: running multiple browser windows/tabs, word processing, project management software, light graphic/image editing)
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
