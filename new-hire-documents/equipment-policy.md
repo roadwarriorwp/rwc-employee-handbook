@@ -2,7 +2,7 @@
 
 ## Issuing & Returning Equipment
 
-While working for Road Warrior Creative, employees are required to take proper care of all company property that they have been entrusted with. The employee's supervisor or a company officer will log all issued pieces of company property on the Xero Employee Portal, under the file of the applicable employee. At the end of their employment, employees are required return all property of Road Warrior Creative that they were issued in proper working order. This policy applies to the item(s) listed as available for procurement below, in addition to any other property acquired by the Company and issued to the employee. 
+While working for Road Warrior Creative, employees are required to take proper care of all company property that they have been entrusted with. The employee's supervisor or a company officer will log all issued pieces of company property on the Xero Employee Portal, under the file of the applicable employee. Employees will also be required to log and sign a Receipt of Company Property with their supervisor at the time any company property is issued or returned. At the end of their employment, employees are required to return all property of Road Warrior Creative that they were issued in proper working order. This policy applies to the item(s) listed as available for procurement below, in addition to any other property acquired by the Company and issued to the employee.
 
 Road Warrior Creative equipment is expected to have a minimum lifespan of 4 years. Company equipment that is less than 4 years old and still in proper working order will not be considered for replacement. Road Warrior Creative reserves the right to keep equipment in rotation longer than 4 years, if the equipment still meets the needs of the company and individual employee.
 
@@ -10,7 +10,7 @@ Should an employee accidentally damage company property, they should immediately
 
 Should an employee deliberately damage, destroy or sabotage company property, Road Warrior Creative will consider this an act of vandalism and may choose to criminally prosecute the employee.
 
-Should an employee fail to return equipment they were issued, Road Warrior Creative will consider this an act of theft and may choose to criminally prosecute the employee.
+Should an employee fail to return equipment they were issued prior to the end of their final shift or within 5 business days of termination from employment, Road Warrior Creative may invoice the employee for the full replacement value of such equipment or, if deemed appropriate, criminally prosecute the employee for theft. 
 
 ## Equipment Procurement List
 
@@ -22,9 +22,9 @@ Equipment available for procurement has been divided into three categories: "All
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm^
+001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm ^
 002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/magic-mouse-200px.png) | Apple Magic Mouse 2 Wireless
-003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm^
+003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm ^
 004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
 
 ## Technical Employees
