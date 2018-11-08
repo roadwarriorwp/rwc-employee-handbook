@@ -1,10 +1,29 @@
 # Health Insurance
 
-Road Warrior Creative recognizes the importance of having great medical coverage.
+Road Warrior Creative recognizes the importance of having great medical coverage. So long as the company meets the minimum enrollment as established by our insurance provider, the company will continue to offer medical, dental, and vision coverage for qualifying employees and their dependents. 
 
-So long as the company meets the minimum number of enrolled employees to qualify, Road Warrior Creative will continue to offer medical, dental, and vision coverage for employees and their dependents. Road Warrior Creative will offer employees one plan option, for which it will contribute a flat $125.00 per month. For employees that choose to waive medical coverage under a company plan, Road Warrior Creative will provide the same $125.00 as a monthly lifestyle allowance. Should an employee elect to choose his/her own medical coverage OR if Road Warrior Creative lacks the minimum number of enrolled employees to qualify for a company insurance policy, employees and company officers will be solely responsible for finding and paying for any such coverage out-of-pocket. 
+Road Warrior Creative will select and attempt to enroll in a group health insurance plan in Q4 of every calendar year. 
 
-Company officers that choose to waive medical coverage are not eligible for the lifestyle allowance.
+## Coverage Options and Contributions
+
+Subject to the above terms, Road Warrior Creative will offer three plan options with the following company contribution levels:
+
+Coverage Type/Level | Employee | Dependent(s)
+------------ | ------------- | -------------
+Bronze 6650/100 | 30% Company 70% Employee | 100% Employee
+Silver 6000/80 | Employee Pays Difference | 100% Employee
+Gold 2500/80 | Employee Pays Difference | 100% Employee
+Dental/vision | 30% Company 70% Employee | 100% Employee
+
+Qualifying employees may enroll on the first day of the month 30 days after their hire date, or if they experience a Qualifying Life Event as defined by [HealthCare.gov](https://www.healthcare.gov/glossary/qualifying-life-event/). Employees choosing to waive available coverage are not entitled to cash payments in lieu, for any reason.
+
+## Alternative Coverage Plan
+
+If at any time Road Warrior Creative fails to meet minimum enrollment quotas and is unable to secure coverage for employees, the company's alternative coverage plan will go into effect. Employees do not need to do anything to enroll in this plan.
+
+Qualifying employees will receive a flat Lifestyle Allowance of $125 each month. This allowance is intended to help employees with their personal expenses until the company can successfully reapply for coverage.
+
+## Enrollment
 
 Subject to the above terms, full-time employees are eligible for health insurance coverage beginning on the first day of the month following their hire date, or if they experience a Qualifying Life Event as defined by [HealthCare.gov](https://www.healthcare.gov/glossary/qualifying-life-event/). 
 
