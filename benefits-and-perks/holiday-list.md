@@ -4,17 +4,17 @@ Road Warrior Creative will be closed for business on the dates listed below. All
 
 Please note that we occasionally observe Federal Holidays on different dates in order to accommodate a more family-friendly work schedule:
 
-Federal Holiday | 2018 Observed Date | 2019 Observed Date
+Federal Holiday | 2019 Observed Date | 2020 Observed Date
 ------------ | ------------- | -------------
-New Year's Day | Monday, January 1 | Tuesday, January 1
-MLK Day | Monday, January 15 | Monday, January 21
-Presidents Day| Monday, February 19 | Monday, February 18
-Memorial Day | Monday, May 28 | Monday, May 27
-Independence Day | Tuesday, July 4 | Thursday, July 4
-Labor Day | Monday, September 3 | Monday, September 2
-Thanksgiving Day | Thursday, November 22 | Thursday, November 28
-Columbus Day | Friday, November 23 | Friday, November 29
-Veteran's Day | Tuesday, December 24 | Tuesday, December 24
-Christmas Day | Monday, December 25 | Wednesday, December 25
+New Year's Day | Tuesday, January 1 | Wednesday, January 1
+MLK Day | Monday, January 21 | Monday, January 20
+Presidents Day| Monday, February 18 | Monday, February 17
+Memorial Day | Monday, May 27 | Monday, May 25
+Independence Day | Thursday, July 4 | Friday, July 3
+Labor Day | Monday, September 2 | Monday, September 7
+Thanksgiving Day | Thursday, November 28 | Thursday, November 26
+Columbus Day | Friday, November 29 | Friday, November 27
+Veteran's Day | Tuesday, December 24 | Thursday, December 24
+Christmas Day | Wednesday, December 25 | Friday, December 25
 
 We recognize that our employees may not personally observe the Christmas holiday. Employees may (upon request) reallocate their paid leave on Christmas Day in order to observe an alternative holiday, either religious or non-religious. 
