@@ -2,7 +2,7 @@
 
 ## Salary Compensation
 
-Fair compensation is critical to making Road Warrior Creative a desirable place to work and is a key component of helping our employees to lead happy, healthy lives inside and outside of the office. However, we believe that salary is just _one_ of many components that makes a job rewarding. In today's job market, what Road Warrior Creative offers -- real jobs with real benefits that let you work from anywhere with an internet connection -- is a __major__ perk. Here's why:
+Fair compensation is critical to making Road Warrior Creative a desirable place to work and is a key component of helping our employees to lead happy, healthy lives inside and outside of the office. However, we believe that salary is just _one_ of many components that makes a job rewarding. The majority of positions at Road Warrior Creative allow employees work from anywhere with an internet connection. This is a __major__ perk. Here's why:
 
 * The vast majority of jobs require you to commute to an office or job site. We think that this sucks!
 * Remote jobs give you thousands of dollars and dozens of hours of your life back _per year_, by eliminating your commute.
@@ -14,13 +14,19 @@ Fair compensation is critical to making Road Warrior Creative a desirable place 
 
 For every employee, compensation begins with a reasonable base salary that is designed to check the box of "enough" for individuals already excited about working remotely. To better align the motivations of our employees, we have a standard rubric that determines compensation for all employees. All full-time Road Warrior Creative employees fall into one of six options based on their job description and years of past experience, as detailed in the next section.
 
+## Hourly Employee Information:
+
+Hourly positions at Road Warrior Creative are typically entry-level. While important to our success, these positions typically do not require as much experience or specialized training. Hourly rates are calculated on a per-case basis based upon the position's requirements, individual experience, geographic location, and publicly available wage data.
+
+Hourly positions include: Operations Assistant, Intern
+
 ## Employee Salary Table:
 
-Positions at Road Warrior Creative are divided into "Technical" and "Non-Technical" roles.
+Salaried positions at Road Warrior Creative are divided into "Technical" and "Non-Technical" roles.
 
-**Technical** - A position that requires specific knowledge or skills which can only be applied to that field or area of work and represent a specialty or focus. Technical positions include: Front-End Developer, Back-End Developer, SEO Specialist
+**Technical** - A position that requires specific knowledge or skills which can only be applied to that field or area of work and represent a specialty or focus. Technical positions may include: Developer, Technical Support Lead, Digital Strategist
 
-**Non-Technical** - A position that requires general knowledge or skills that have a broad range of applications and do not represent a specialty or focus. Non-technical positions include: Project Manager, Graphic Designer, Social Media Manager, Copywriter
+**Non-Technical** - A position that requires general knowledge or skills that have a broad range of applications and do not represent a specialty or focus. Non-technical positions may include: Project Manager, Graphic Designer, Digital Content Specialist
 
 Experience | Technical | Non-Technical
 ------------ | ------------- | -------------
