@@ -28,7 +28,7 @@ Item No. | Item Picture | Name/Description
 004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm ^
 005 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
 006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Razer-Blackwidow-Lite.png) | Razer Blackwidow Lite Keyboard
-006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Boyata-Adjustable-Laptop-Stand.png) | Boyata Adjustable Laptop Stand
+007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Boyata-Adjustable-Laptop-Stand.png) | Boyata Adjustable Laptop Stand
 
 ## Technical Employees
 
@@ -36,9 +36,9 @@ It is anticipated that a technical employee will be running multiple demanding a
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro 15" (iOS)
-008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 15 (Win10)
-008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-27-Inch-4K-UHD-IPS-Monitor-27UD68-W.jpg) | LG 27" 4K UHD IPS Monitor 27UD68-W
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro 15" (iOS)
+009 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 15 (Win10)
+010 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-27-Inch-4K-UHD-IPS-Monitor-27UD68-W.jpg) | LG 27" 4K UHD IPS Monitor 27UD68-W
 
 ### Non-Technical Employees
 
@@ -46,8 +46,8 @@ It is anticipated that a non-technical employee will be running less demanding a
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-009 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air (iOS)
-008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth (Win10)
-008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-24-Inch-HD-IPS-Monitor-24MP88HV-S.png) | LG 24" Full HD IPS Monitor
+011 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air (iOS)
+012 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth (Win10)
+013 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-24-Inch-HD-IPS-Monitor-24MP88HV-S.png) | LG 24" Full HD IPS Monitor
 
 __^__ *You are not required to return items marked with this symbol.*
