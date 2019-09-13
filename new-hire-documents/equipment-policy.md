@@ -23,9 +23,12 @@ Equipment available for procurement has been divided into three categories: "All
 Item No. | Item Picture | Name/Description
 --- | --- | ---
 001 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/ear-pods-200px.png) | Apple Ear Pods Wired 3.5mm ^
-002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/magic-mouse-200px.png) | Apple Magic Mouse 2 Wireless
-003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm ^
-004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
+002 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/magic-mouse-200px.png) | Apple Magic Mouse Wireless
+003 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Apple-Magic-Keyboard.png) | Apple Magic Keyboard
+004 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-hammerheadv2-200px.png) | Razer Hammerhead v2 Earbuds Wired 3.5mm ^
+005 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-atheris-200px.png) | Razer Atheris Mouse Wireless/Bluetooth
+006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Razer-Blackwidow-Lite.png) | Razer Blackwidow Lite Keyboard
+006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/Boyata-Adjustable-Laptop-Stand.png) | Boyata Adjustable Laptop Stand
 
 ## Technical Employees
 
@@ -33,16 +36,18 @@ It is anticipated that a technical employee will be running multiple demanding a
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-005 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro i7 2.8 GHz, 512 GB (iOS)
-006 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 4K UHD i7 2.8GHz, 512 GB (Win10)
+007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-pro-200px.png) | Apple MacBook Pro 15" (iOS)
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-200px.png) | Razer Blade 15 (Win10)
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-27-Inch-4K-UHD-IPS-Monitor-27UD68-W.jpg) | LG 27" 4K UHD IPS Monitor 27UD68-W
 
 ### Non-Technical Employees
 
-It is anticipated that a non-technical employee will be running less demanding applications that are unlikely to require a great deal of computational resources, and can effectively work at a "standard" level visual fidelity. (Examples include: running multiple browser windows/tabs, word processing, project management software, light graphic/image editing)
+It is anticipated that a non-technical employee will be running less demanding applications that are unlikely to require a great deal of computational resources, and can effectively work at a "standard" level of visual fidelity.
 
 Item No. | Item Picture | Name/Description
 --- | --- | ---
-007 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air i5 1.8GHz, 512 GB (iOS)
-008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth i7 2.7GHz, 512 GB (Win10)
+009 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/macbook-air-200px.png) | Apple MacBook Air (iOS)
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2018/05/razer-blade-stealth-200px.png) | Razer Blade Stealth (Win10)
+008 | ![alt text](https://roadwarriorcreative.com/wp-content/uploads/2019/09/LG-24-Inch-HD-IPS-Monitor-24MP88HV-S.png) | LG 24" Full HD IPS Monitor
 
 __^__ *You are not required to return items marked with this symbol.*
