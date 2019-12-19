@@ -1,21 +1,7 @@
 # Qualifying for Benefits
 
-Employees are eligible based upon their full- or part-time employment status:
+Subject to the approval of our Professional Employer Organization (PEO), __ALL__ Road Warrior Creative employees will be eligible for the same benefits regardless of their full-time or part-time status. 
 
-* Employees are considered full-time when working 30 hours or more during a full 5-day work week. 
-* Employees are considered part-time when working less than 30 hours during a full 5-day work week. 
+In the event that our relationship with a Professional Employer Organization (PEO) prevents us from offering the same benefits to all employees, Road Warrior Creative will take reasonable steps to inform impacted employees of the change and update this policy accordingly.
 
-An employee's status is determined by what is listed in their signed offer letter. Employees who believe they may need their work status updated or checked should contact Chris Hinds, COO immediately.
-
-## Full-time Employees
-
-Full-time employees are eligible for all benefits and bonuses, per the terms listed in this handbook.
-
-## Part-time Employees
-
-Part-time employees are eligible for only the following:
-* [Coffee Break Allowance](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/coffee-break-allowance.md)
-* [Continuing Education Support](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/continuing-education.md)
-* [Referral Bonuses](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/referral-bonuses.md)
-* Paid Time Off (PTO) for Federal Holidays, per our [Holiday List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/benefits-and-perks/holiday-list.md)
-* Protected absences from work, as required by Federal and State Law
+An employee's full-time or part-time status is determined by what is listed in their signed offer letter. Employees who believe they may need their work status updated or checked should contact Chris Hinds, COO immediately.
