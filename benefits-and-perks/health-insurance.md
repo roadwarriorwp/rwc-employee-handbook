@@ -14,6 +14,8 @@ Medical | 75% Company 25% Employee | Employee Pays Difference
 Dental | 50% Company 50% Employee | Employee Pays Difference
 Vision | 0% Company 100% Employee | Employee Pays Difference
 
+Employees can access full plan features and information inside their employee dashboard.
+
 ## Alternative Coverage Plan
 
 If at any time Road Warrior Creative fails to secure coverage for employees, the company's alternative coverage plan will go into effect. Employees do not need to do anything to enroll in this plan.
