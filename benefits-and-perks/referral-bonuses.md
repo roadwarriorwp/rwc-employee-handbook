@@ -6,7 +6,7 @@ __NOTE:__ *Employees with an ownership stake in Road Warrior Creative are not el
 
 Support from a current employee is one of the best signals as to whether or not prospect candidates will be successful at our company. Our employees understand Road Warrior Creative's needs and what it’s like to work here better than anyone, and their relationship with a candidate means they know more than we can learn during an interview process.
 
-We offer a $1,000.00 bonus to any current employee from whose recommendation we hire a new full-time employee, within the following guidelines:
+We offer a $1,000.00 bonus to any current employee from whose recommendation we hire a new employee, within the following guidelines:
 
 * The referral date can’t be earlier than the date the job is posted.
 * The referral must represent the candidate’s first contact with Road Warrior Creative.
