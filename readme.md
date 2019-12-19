@@ -81,23 +81,11 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * [Federal Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/federal-documents-list.md)
 * [State Documents List](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/state-documents-list.md)
 
-### Operations Documents - _This section is incomplete. Only linked sections contain content._
-* Best Practices: 1Password
-* Best Practices: Basecamp
-* Best Practices: Dropbox
-* Best Practices: GitHub
-* Best Practices: Google for Business
-* Best Practices: Toggl
-* Best Practices: Zendesk
-* Operations: Accounting/Budgeting
-* Operations: Hosting/Support
-* Operations: Logo Design/Branding
-* Operations: New Employee Onboarding
-* Operations: Search Engine Optimization/Marketing
-* Operations: Social Media Marketing
-* Operations: Sourcing Job Candidates
-* Operations: Website Design/Development
-* Organizational Structure
+### Operations Manual
+
+Only active employees of Road Warrior Creative will be able to access this manual:
+
+https://employees.roadwarriorcreative.com/
 
 ## Changes to Handbook Policy
 
