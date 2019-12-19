@@ -10,7 +10,7 @@ Subject to the above terms, Road Warrior Creative will offer up to four plan opt
 
 Coverage Type/Level | Employee | Dependent(s)
 ------------ | ------------- | -------------
-Medical EE | 75% Company 25% Employee | Employee Pays Difference
+Medical | 75% Company 25% Employee | Employee Pays Difference
 Dental | 50% Company 50% Employee | Employee Pays Difference
 Vision | 0% Company 100% Employee | Employee Pays Difference
 
