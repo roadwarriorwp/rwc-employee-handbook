@@ -31,6 +31,6 @@ We encourage employees to become involved in activities within their local commu
 
 ## Support for Speaking Engagements
 
-When an employee of Road Warrior Creative speaks publicly about their area of expertise, it makes our entire team look great! Employees who hold workshops or lectures while clearly representing themselves as part of the Road Warrior Creative team, are eligible for up to $500.00 of reimbursement for materials and travel expenses per calendar year. 
+When an employee of Road Warrior Creative speaks publicly about their area of expertise, it makes our entire team look great! Employees who hold workshops or lectures while clearly representing themselves as part of the Road Warrior Creative team, are eligible for up to $1000.00 of reimbursement for materials and travel expenses per calendar year. 
 
 Eligibility for such reimbursement(s) must be reviewed on a per-case basis by the employee's direct supervisor, in advance. Ideally, video or audio footage of the speaking engagement should be made available.
