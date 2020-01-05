@@ -41,7 +41,7 @@ In addition to base salary, employees may have the opportunity to earn profit-ba
 
 ## Annual Cost-of-Living Adjustment:
 
-Every January, all employees who held their current position for at least 90 days leading up to the new year will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). Adjustments will cap at 3.5% per-year and will be waived for any year in which the CPI reports inflation as a negative percentage. Any employee who has reached the salary cap for their position (as shown in the Employee Salary Table) will no longer be eligible for these adjustments.
+Every January, all employees who held their current position for at least 180 days leading up to the new year will receive an annual cost of living adjustment tied to the average inflation of the previous calendar year, as reported by the United States Consumer Price Index (CPI). Adjustments will cap at 3.5% per-year and will be waived for any year in which the CPI reports inflation as a negative percentage. Any employee who has reached the salary cap for their position (as shown in the Employee Salary Table) will no longer be eligible for these adjustments.
 
 ## Annual Incentive Bonus Plan:
 
