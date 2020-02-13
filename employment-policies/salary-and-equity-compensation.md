@@ -45,13 +45,14 @@ Every January, all employees who held their current position for at least 180 da
 
 ## Annual Incentive Bonus Plan:
 
-This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. In order for bonuses to be distributed, the total bonus pool must not exceed 40% of Road Warrior Creative's estimated profits after tax and distributions for the calendar year (Calculated the following March). In the event that this requirement is not met, Road Warrior Creative may, in its sole discretion, choose to either __(a)__ Distribute no bonuses. OR __(b)__ Adjust bonuses such that the total adjusted bonus pool meets the 40% requirement described above.
+This annual incentive bonus plan is designed to provide additional incentive-based compensation to eligible employees of Road Warrior Creative. In order for bonuses to be distributed, the total bonus payout must not exceed 40% of Road Warrior Creative's estimated profits after tax and distributions for the calendar year (Calculated the following March). In the event that this requirement is not met, Road Warrior Creative may, in its sole discretion, choose to either __(a)__ Distribute no bonuses. OR __(b)__ Adjust bonuses such that the total adjusted bonus payout meets the 40% requirement described above.
 
 To be eligible for the annual incentive bonus, the following must be true at the time bonuses are distributed:
 
 * You are a full-time employee of the company.
-* You held your current position for at least 90 days during the calendar year for which bonsuses are being distributed.
 * Your job performance is considered to be in good standing.
+* You held your current position for at least 90 days during the previous calendar year.
+* The company achieved a pre-tax/distribution profit margin of 23.5% during the previous calendar year.
 
 Bonuses are computed as a percentage of wages or base salary received as of year-end. Bonus payments will be made no later than April 30th of the following year. The payment will be taxed at the flat Internal Revenue Service (IRS) rate, plus applicable state rates for bonus payments. In order to incentivize long-term stays with Road Warrior Creative, the following bonus structure will be used:
 
@@ -59,7 +60,7 @@ Time With Company | % of Wages/Salary
 ------------ | -------------
 Less Than 2 Years | 5.0%
 2-5 Years | 10.0%
-More Than 5 Years | 15.0%
+5+ Years | 15.0%
 
 As can be seen, using this method gives every employee a comfortable "base" salary tied to experience and the technical challenges of their position, with regular adjustments for cost of living built in. The remainder of their compensation is tied directly to business profit and length of time with the company. At Road Warrior Creative, we’re hoping to build a loyal team that grows with us, and we believe sharing a substantial portion of our profits with employees is the best way to accomplish that. 
 
