@@ -32,7 +32,7 @@ Experience | Technical | Non-Technical
 ------------ | ------------- | -------------
 Less Than 2 Years | $50,000 | $35,000
 2-5 Years | $60,000 | $45,000
-More Than 5 Years | $70,000 | $55,000
+5+ Years | $70,000 | $55,000
 Salary Cap | $80,000 | $65,000
 
 We count experience as any time doing the same category of job at a company similar to Road Warrior Creative, such that the experience is relevant to the job being offered.
