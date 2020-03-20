@@ -99,12 +99,12 @@ We believe that building a better, more accessible internet is a responsibility 
 
 As part of our mission to make the web more accessible, Road Warrior Creative is working to build an internal culture of collaboration where every member of our team understands and values accessibility best practices. Taking that a step further, we also work to select accessible tools for our team to use every day. Here are their public accessibility statements:
 
-	* [Basecamp](https://m.signalvnoise.com/the-next-big-jump-in-basecamp-accessibility/)
-	* [G Suite for Users](https://support.google.com/a/answer/1631886?hl=en)
-	* [G Suite for Admins](https://support.google.com/a/answer/2821355?hl=en)
-	* [Zoom](https://zoom.us/accessibility)
-	* [Adobe](https://www.adobe.com/accessibility.html)
-	* [WordPress](https://make.wordpress.org/accessibility/)
+* [Basecamp](https://m.signalvnoise.com/the-next-big-jump-in-basecamp-accessibility/)
+* [G Suite for Users](https://support.google.com/a/answer/1631886?hl=en)
+* [G Suite for Admins](https://support.google.com/a/answer/2821355?hl=en)
+* [Zoom](https://zoom.us/accessibility)
+* [Adobe](https://www.adobe.com/accessibility.html)
+* [WordPress](https://make.wordpress.org/accessibility/)
 
 ## Changes to Handbook Policy
 
