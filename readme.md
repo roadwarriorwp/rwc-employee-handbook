@@ -91,7 +91,7 @@ https://employees.roadwarriorcreative.com/
 
 ### Customer Accessibility & Community
 
-Road Warrior Creative is committed to making the web more accessible for our team members, for our clients, for everyone. More than 1 billion people in the world and 1 in 8 Americans have a disability, which may prevent them from using or interacting with our online world in a traditional manner. Not having a properly accessible website or web application limits the ability of disabled individuals to do things that the rest of us take for granted.
+Road Warrior Creative is committed to making the web more accessible for our team members, for our clients, for everyone. More than 1 billion people in the world and 1 in 8 Americans have a disability, which may prevent them from using or interacting with the online world in a traditional manner. Not having a properly accessible website or web application limits the ability of disabled individuals to do things that the rest of us take for granted.
 
 We believe that building a better, more accessible internet is a responsibility we should all share. By providing free education and tools, speaking out about the importance of accessibility, partnering with globally recognized organizations like the Texas School for the Blind and Visually Impaired, and creating robust internal systems to ensure the solutions we deploy are usable by all, our company is leading the charge in making the internet more open to disabled individuals.
 
