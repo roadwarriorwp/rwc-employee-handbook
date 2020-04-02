@@ -89,11 +89,15 @@ https://employees.roadwarriorcreative.com/
 
 ## Our Accessibility Commitment
 
+### Introduction
+
+Road Warrior Creative is committed to making the web more accessible for our team members, for our clients, and for everyone. More than 1 billion people in the world and 1 in 8 Americans have a disability which may prevent them from using or interacting with the online world in a traditional manner. As a creator of websites, applications, and digital content, it is our social responsibility to ensure everything we build or create is useable by people of all abilities.  
+
 ### Customer Accessibility & Community
 
-Road Warrior Creative is committed to making the web more accessible for our team members, for our clients, for everyone. More than 1 billion people in the world and 1 in 8 Americans have a disability, which may prevent them from using or interacting with the online world in a traditional manner. As a creator of websites, applications, and digital content, we believe that it is our social responsibility to ensure that those things are useable by people of all abilities.  This ensures that everyone has equal access to information and tools on the web.
+We strive to develop products designed to be usable to the greatest extent possible by everyone. This includes designing and developing fron an accessibility-first perspective and providing education to clients about how certain elements or decisons may impact accessibility. Building a better, more accessible internet is a responsibility that all humans share and we are proud to provide the knowledge and tools that enable our clients to meet that responsibility. Our goal is to ensure that everyone has equal access to information and tools on the web.
 
-Building a better, more accessible internet is a responsibility that all humans share and we are proud to provide the knowledge and tools that enable our clients to meet that responsibility. We provide free education and WordPress plugins, speak publically about the importance of accessibility, partner with globally recognized organizations like the Texas School for the Blind and Visually Impaired, and create robust internal systems to ensure the solutions we deploy are usable by all. Road Warrior Creative is proud to be leading the charge in making the internet more open to disabled individuals.
+Outside of client projects, we provide free education and tools, speak publically about the importance of accessibility, partner with globally recognized organizations like the Texas School for the Blind and Visually Impaired, and create robust internal systems to ensure the solutions we deploy are usable by all. Road Warrior Creative is proud to be leading the charge in making the internet more open to disabled individuals.
 
 ### Employee Accessibility Resources
 
