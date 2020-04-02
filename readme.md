@@ -95,7 +95,7 @@ Road Warrior Creative is committed to making the web more accessible for our tea
 
 ### Customer Accessibility & Community
 
-We strive to develop products designed to be usable to the greatest extent possible by everyone. This includes designing and developing fron an accessibility-first perspective and providing education to clients about how certain elements or decisons may impact accessibility. Building a better, more accessible internet is a responsibility that all humans share and we are proud to provide the knowledge and tools that enable our clients to meet that responsibility. Our goal is to ensure that everyone has equal access to information and tools on the web.
+We strive to develop products designed to be usable to the greatest extent possible by everyone. This includes designing and developing from an accessibility-first perspective and providing education to clients about how certain elements or decisions may impact accessibility. Building a better, more accessible internet is a responsibility that all humans share and we are proud to provide the knowledge and tools that enable our clients to meet that responsibility. Our goal is to ensure that everyone has equal access to information and tools on the web.
 
 Outside of client projects, we provide free education and tools, speak publically about the importance of accessibility, partner with globally recognized organizations like the Texas School for the Blind and Visually Impaired, and create robust internal systems to ensure the solutions we deploy are usable by all. Road Warrior Creative is proud to be leading the charge in making the internet more open to disabled individuals.
 
