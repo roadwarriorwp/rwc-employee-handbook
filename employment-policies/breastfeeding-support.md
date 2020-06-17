@@ -6,7 +6,7 @@ In recognition of the health advantages of breastfeeding for infants and mothers
 
 ### Time For Milk Expression
 
-Employees who are breastfeeding may express milk or breastfeed during their work hours, using their normal break(s) or meal time(s). In cases where extra time is needed, employees may negotiate make-up time with their supervisor or use PTO.
+Employees who are breastfeeding may express milk or breastfeed during their work hours, using their normal break(s) or meal time(s). So long as an employee's productivity remains reasonably consistent, we do not require scheduling make-up time or use of PTO for milk expression.
 
 ### A Place to Express Milk
 
@@ -14,11 +14,11 @@ A private room (not a toilet stall or restroom) will be available to employees w
 
 ### Breastfeeding Equipment
 
-Employees that are enrolled in a health insurance plan with Road Warrior Creative may be eligible for subsidized or free breast pumps, depending on their individual coverage. We strongly recommend that employees contact a representative with our group insurance provider for the most up-to-date information.
+Employees who are enrolled in a health insurance plan with Road Warrior Creative are eligible for free breast pumps and lactation support services. We strongly recommend that employees contact a representative with our group insurance provider for the most up-to-date information.
 
 ### Staff Support
 
-Company officers and supervisors are responsible for alerting pregnant and breastfeeding employees regarding this policy and to follow through on the company's obligations as outlined above. In addition, all other staff members are expected to provide a positive and supportive atmosphere for breastfeeding employees.
+Company officers and supervisors are responsible for alerting pregnant and breastfeeding employees regarding this policy and to follow through on the company's obligations as outlined above. In addition, all other staff members are expected to provide a positive and supportive atmosphere for breastfeeding employees. __All employees are welcome to breastfeed at their desk and/or during meetings, if they feel comfortable doing so.__
 
 ## Employee Responsibilities
 
@@ -34,6 +34,6 @@ Our office's main conference room (which has a lockable door and window blinds) 
 
 Employees should label all milk expressed with their name and the date it was collected so that it is not inadvertently confused with another employee's milk. Each employee is responsible for proper storage of her milk. If employees are concerned regarding the use of a shared refrigerator, the employee may also keep a small cooler or other sealed container with their name on it inside the refrigerator to provide an extra barrier.
 
-### Shared Use
+### Shared Use Room
 
-We ask that employees try, to the best of their ability, to plan milk expression times around client meetings and internal team meetings, which also make use of the conference room. If an employee is experiencing discomfort due to the need to express milk and the conference room is under extended use, on-site staff can also temporarily vacate the main office room for 15-20 minutes to create an alternative private space.
+The conference room is also used for client meetings and internal staff meetings. We ask that on-site employees try, to the best of their ability, to plan milk expression times around when the conference room will be vacant, so that they can have the option of privacy. If an on-site employee is experiencing discomfort due to the need to express milk and the conference room is under extended use, on-site staff can also temporarily vacate the main office room for 15-20 minutes to create an alternative private space.
