@@ -14,7 +14,7 @@ A private room (not a toilet stall or restroom) will be available to employees w
 
 ### Breastfeeding Equipment
 
-Employees that are enrolled in a health insurance plan with Road Warrior Creative may be eligible for subsidized or free breast pumps, depending on their individual coverage. We strongly recommend that employees contact a representative with our group insurance provider for the must up-to-date information.
+Employees that are enrolled in a health insurance plan with Road Warrior Creative may be eligible for subsidized or free breast pumps, depending on their individual coverage. We strongly recommend that employees contact a representative with our group insurance provider for the most up-to-date information.
 
 ### Staff Support
 
