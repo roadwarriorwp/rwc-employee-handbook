@@ -73,6 +73,7 @@ Not an employee of Road Warrior Creative? Are you interested in joining our team
 * [Equal Opportunity Employment](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/equal-opportunity-employment.md)
 * [Employee Compensation](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/salary-and-equity-compensation.md)
 * [Remote Work](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/working-remotely.md)
+* [Breastfeeding Support](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/employment-policies/breastfeeding-support.md)
 
 ### New Hire Documents
 * [Equipment Policy](https://github.com/roadwarriorwp/rwc-employee-handbook/blob/master/new-hire-documents/equipment-policy.md)
