@@ -14,7 +14,7 @@ Independence Day | Monday, July 5 | Monday, July 4
 Labor Day | Monday, September 6 | Monday September 5
 Thanksgiving Day | Thursday, November 25 | Thusday, November 24
 Columbus Day | Friday, November 26 | Friday, November 25
-Veteran's Day | Thursday, December 23 | TBD
+Veteran's Day | Thursday, December 23 | Friday, November 11
 Christmas Day | Friday, December 24 | Monday, December 26
 
 We recognize that our employees may not personally observe the Christmas holiday. Employees may (upon request) reallocate their paid leave on Christmas Day in order to observe an alternative holiday, either religious or non-religious. 
